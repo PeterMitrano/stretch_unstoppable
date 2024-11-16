@@ -37,4 +37,8 @@ I plan to keep a detailed log of my work in the git messages.
 I also plan to keep this whole endeavor open-source, but I do not intend to document extensively or publish anything.
 Always keep asking the question "will this transfer to the real world?"
 
+# Out-of-scope
 
+- [ ] Other robots
+- [ ] Simulators besides MuJoCo
+- [ ] Speech commands, high level task orchestration, or "chat" interfaces
